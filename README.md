@@ -1,4 +1,4 @@
-Quick and dirty experiment to see how gRPC clients interact with different types of kubernetes services.
+Quick and dirty experiment to see how gRPC clients interact with different types of kubernetes services. The main goal here is to analyze load balancing capabilities.
 
 # How to run
 ```bash
