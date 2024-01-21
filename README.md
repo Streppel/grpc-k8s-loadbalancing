@@ -1,3 +1,5 @@
+Quick and dirty experiment to see how gRPC clients interact with different types of kubernetes services.
+
 # How to run
 ```bash
 make create-cluster && make load-images && make deploy
